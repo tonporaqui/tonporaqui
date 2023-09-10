@@ -12,14 +12,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tonporaqui&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonporaqui&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tonporaqui&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+### 📈 Contribuciones en 2023
+![Contribuciones en 2023](https://github-readme-stats.vercel.app/api?username=tonporaqui&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&from=2023-01-01&to=2023-12-31)
+
+### 📊 Actividad de Contribución Reciente
+![Actividad de Contribución](https://github-readme-streak-stats.herokuapp.com/?user=tonporaqui&theme=shades-of-purple&hide_border=false)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tonporaqui&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tonporaqui&icon=2&color=10)](https://visitcount.itsvg.in)
