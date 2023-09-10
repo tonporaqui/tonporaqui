@@ -15,9 +15,6 @@
 ### 📈 Contribuciones en 2023
 ![Contribuciones en 2023](https://github-readme-stats.vercel.app/api?username=tonporaqui&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&from=2023-01-01&to=2023-12-31)
 
-### 📊 Actividad de Contribución Reciente
-![Actividad de Contribución](https://github-readme-streak-stats.vecel.com/?user=tonporaqui&theme=shades-of-purple&hide_border=false)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
