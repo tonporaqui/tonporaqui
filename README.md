@@ -30,6 +30,14 @@ Estoy muy interesado en contribuir al avance tecnológico y siempre estoy buscan
 
 ![Contribuciones de Gastón](https://github-readme-stats.vercel.app/api?username=tonporaqui&show_icons=true&count_private=true&theme=shades-of-purple)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonporaqui&theme=shades-of-purple)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonporaqui&theme=shades-of-purple&layout=compact)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tonporaqui&theme=dracula)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonporaqui&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
