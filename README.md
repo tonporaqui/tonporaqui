@@ -26,6 +26,10 @@ Estoy muy interesado en contribuir al avance tecnológico y siempre estoy buscan
 ### 📈 Contribuciones en 2023
 ![Contribuciones en 2023](https://github-readme-stats.vercel.app/api?username=tonporaqui&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&from=2023-01-01&to=2023-12-31)
 
+### 📊 Estadísticas de Contribuciones
+
+![Contribuciones de Gastón](https://github-readme-stats.vercel.app/api?username=tonporaqui&show_icons=true&count_private=true&theme=shades-of-purple)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
