@@ -1,5 +1,16 @@
 # 💫 About Me:
-# ¡Hola! Soy Gastón Sepúlveda 👋<br><br>Soy un **Ingeniero Informático** especializado en **Arquitectura de Software**, apasionado por la investigación y las nuevas tecnologías. Tengo experiencia en aplicar metodologías ágiles en proyectos de desarrollo y actualmente estoy cursando un Magíster en Gestión de Información y Telecomunicaciones en la **Universidad Andrés Bello**. Estoy muy interesado en contribuir al avance tecnológico.
+
+## ¡Hola! Soy Gastón Sepúlveda 👋
+
+Soy un **Ingeniero Informático** 🖥️ especializado en **Arquitectura de Software** 🏗️, con una profunda pasión por la investigación 🧪 y las nuevas tecnologías 💡. A lo largo de mi carrera, he adquirido experiencia en la aplicación de metodologías ágiles 🔄 en proyectos de desarrollo.
+
+🎓 **Educación Actual**
+Actualmente, estoy cursando un Magíster en Gestión de Información y Telecomunicaciones en la **Universidad Andrés Bello**.
+
+🚀 **Mis Intereses**
+Estoy muy interesado en contribuir al avance tecnológico y siempre estoy buscando formas de innovar y mejorar en el campo de la tecnología.
+
+
 
 
 ## 🌐 Socials:
