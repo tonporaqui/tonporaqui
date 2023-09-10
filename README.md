@@ -32,11 +32,9 @@ Estoy muy interesado en contribuir al avance tecnológico y siempre estoy buscan
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonporaqui&theme=shades-of-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonporaqui&theme=shades-of-purple&layout=compact)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tonporaqui&theme=dracula)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonporaqui&layout=compact)
 
 
 ### ✍️ Random Dev Quote
